@@ -1,0 +1,54 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+div.espaciorpt{
+  height: 50px;
+}
+div.espas{
+  height: 25px;
+}
+div.costado{
+  width: 5%;
+  display: inline-block;
+}
+div.logoperu{
+  width: 10%;
+  display: inline-block;
+}
+div.titcentro{
+  width: 60%;
+  display: inline-block;
+}
+div.logounasam{
+  width: 20%;
+  display: inline-block;
+}
+div{
+  align: center;
+}
+h3{
+  font-weight: bold;
+  text-align: center;
+}
+h4{
+  text-align: center;
+}
+h5{
+  text-align: center;
+  font-weight: bold;
+}
+tr.titulo{
+  align-content: center;
+  font-size: 11px;
+}
+tr#contenido{
+  font-size: 9px;
+}
+td.firma{
+  width: 15%;
+}
+p{
+  text-align: center;
+  padding: 30px 10px;
+}

@@ -1,0 +1,47 @@
+*{
+  padding: 0px;
+  margin: 0px 20px 0px 20px;
+}
+p{
+  text-align: center;
+  font-size: 12px;
+}
+h4{
+  text-align: center;
+  font-weight: bold;
+  font-size: 13px;
+}
+.clest{
+  width: 200px;
+}
+th{
+  font-size: 14px;
+}
+img{
+  width: 80px;
+}
+div.logoperu{
+  /*background: blue;*/
+  width: 15%;
+  display: inline-block;
+  border: 0px;
+  margin: 0px;
+}
+div.logounasam{
+  /*background: blue;*/
+  width: 15%;
+  display: inline-block;
+  position: relative;
+  border: 0px;
+  margin: 0px;
+}
+div.cbtexto{
+  width: 70%;
+  height: 140px;
+  display: inline-block;
+  border: 0px;
+  margin: 0px;
+}
+div.cabecera{
+  height: 200px;
+}

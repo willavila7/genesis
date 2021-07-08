@@ -1,0 +1,103 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: Raleway;
+}
+body{
+	background: url('../imagen/fondo.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+form.acceso{
+	margin: 2% 0px 0px 37%;
+	align:center;
+	width:350px;
+	height: 400px;
+	background: rgba(0, 0, 0,0.5);
+	border-radius: 10px 10px 10px 10px;
+	border: 1px solid transparent;
+}
+form h1{
+	align: center;
+	font-size: 25px;
+	padding: 20px 0px 5px 40px;
+	color: #E6E6E6;
+	font-weight: bold;
+}
+form hr{
+	margin: 20px 0px 40px 0px;
+}
+form div{
+	height: 100px;
+}
+form p{
+	width: 275px;
+	height: 50px;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+form p.boton{
+	display: inline-block;
+	width: 110px;
+}
+form select{
+	width: 287px;
+	height: 50px;
+	color: #084B8A;
+	font-weight: bold;
+	border-radius: 5px;
+	border: 1px solid transparent;
+}
+form input{
+	width: 275px;
+	height: 40px;
+	padding: 5px;
+	color: #084B8A;
+	font-weight: bold;
+	border-radius: 2px;
+	border: 1px solid transparent;
+}
+form input:hover{
+	border: 1px solid #084B8A;
+}
+form input#acceso{
+	width: 130px;
+	margin-top: 30px;
+	height: 35px;
+	background: #084B8A;
+	border: 1px solid #084B8A;
+	color: #fff;
+	cursor: pointer;
+}
+form input#acceso:hover{
+	background: transparent;
+	border: 1px solid #084B8A;
+	color: #084B8A;
+}
+form input#salir{
+	width: 130px;
+	height: 35px;
+	background: transparent;
+	border: 1px solid #084B8A;
+	color: #084B8A;
+	cursor: pointer;
+}
+form input#salir:hover{
+	background: #084B8A;
+	border: 1px solid #084B8A;
+	color: #fff;
+}
+form a{
+	font-size: 13px;
+	margin-left: 25px;
+	text-decoration: none;
+	color: #BDBDBD;
+	cursor: pointer;
+}
+form a:hover{
+	color: #fff;
+}
+#error{
+	color: #E6E6E6;
+	height: auto;
+}
